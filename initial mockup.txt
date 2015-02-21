@@ -1,0 +1,113 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1619" measuredH="1672" mockupW="1368" mockupH="1672">
+  <controls>
+    <control controlID="38" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="251" y="0" w="1368" h="1600" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Otsin%20t%F6%F6d</text>
+      </controlProperties>
+    </control>
+    <control controlID="39" controlTypeID="com.balsamiq.mockups::Canvas" x="251" y="70" w="1368" h="50" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="-1"/>
+    <control controlID="40" controlTypeID="com.balsamiq.mockups::Label" x="363" y="83" w="85" h="-1" measuredW="87" measuredH="24" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>LeMonJuice</text>
+      </controlProperties>
+    </control>
+    <control controlID="42" controlTypeID="com.balsamiq.mockups::LinkBar" x="1283" y="86" w="-1" h="-1" measuredW="126" measuredH="19" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>How%20it%20works%2C%20Peter</text>
+      </controlProperties>
+    </control>
+    <control controlID="47" controlTypeID="com.balsamiq.mockups::Canvas" x="335" y="72" w="1200" h="1600" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="-1"/>
+    <control controlID="91" controlTypeID="__group__" x="427" y="154" w="190" h="71" measuredW="190" measuredH="71" zOrder="5" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="0" w="77" h="71" measuredW="32" measuredH="32" zOrder="0" locked="false" isInGroup="91">
+          <controlProperties>
+            <shape>circle</shape>
+            <text>User%20img</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="84" y="15" w="-1" h="-1" measuredW="106" measuredH="24" zOrder="1" locked="false" isInGroup="91">
+          <controlProperties>
+            <size>16</size>
+            <text>Michael%20Knight</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="84" y="36" w="-1" h="-1" measuredW="94" measuredH="20" zOrder="2" locked="false" isInGroup="91">
+          <controlProperties>
+            <size>12</size>
+            <text>322%20deals%20/%2099%25</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="92" controlTypeID="__group__" x="517" y="622" w="881" h="125" measuredW="881" measuredH="125" zOrder="6" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Image" x="718" y="0" w="163" h="125" measuredW="77" measuredH="79" zOrder="0" locked="false" isInGroup="92">
+          <controlProperties>
+            <text>Swedbank</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="474" y="0" w="163" h="125" measuredW="77" measuredH="79" zOrder="1" locked="false" isInGroup="92">
+          <controlProperties>
+            <text>Bitcoin</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Image" x="229" y="0" w="163" h="125" measuredW="77" measuredH="79" zOrder="2" locked="false" isInGroup="92">
+          <controlProperties>
+            <text>Paypal</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Image" x="0" y="0" w="163" h="125" measuredW="77" measuredH="79" zOrder="3" locked="false" isInGroup="92">
+          <controlProperties>
+            <text>Google%20Wallet</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="101" controlTypeID="com.balsamiq.mockups::Label" x="431" y="234" w="-1" h="-1" measuredW="186" measuredH="21" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Phone%20number%3A%20+372%20900%208004</text>
+      </controlProperties>
+    </control>
+    <control controlID="102" controlTypeID="com.balsamiq.mockups::Label" x="431" y="255" w="-1" h="-1" measuredW="159" measuredH="21" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Email%3A%20michael@knight.com</text>
+      </controlProperties>
+    </control>
+    <control controlID="105" controlTypeID="__group__" x="670" y="147" w="531" h="462" measuredW="531" measuredH="462" zOrder="9" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="__group__" x="0" y="0" w="531" h="462" measuredW="531" measuredH="462" zOrder="0" locked="false" isInGroup="105">
+          <groupChildrenDescriptors>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="0" y="327" w="-1" h="-1" measuredW="531" measuredH="21" zOrder="3" locked="false" isInGroup="0">
+              <controlProperties>
+                <text>Product%20description%20this%20is%20a%20long%20text%2C%20hey%20man%21%20What%20is%20the%20root%20of%20two%20lingering%20pigeons%3F</text>
+              </controlProperties>
+            </control>
+            <control controlID="2" controlTypeID="com.balsamiq.mockups::Image" x="122" y="0" w="287" h="251" measuredW="77" measuredH="79" zOrder="0" locked="false" isInGroup="0">
+              <controlProperties>
+                <text>Product%20photo</text>
+              </controlProperties>
+            </control>
+            <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="164" y="266" w="-1" h="-1" measuredW="203" measuredH="40" zOrder="1" locked="false" isInGroup="0">
+              <controlProperties>
+                <size>32</size>
+                <text>Product%20name</text>
+              </controlProperties>
+            </control>
+            <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="215" y="422" w="-1" h="-1" measuredW="101" measuredH="40" zOrder="2" locked="false" isInGroup="0">
+              <controlProperties>
+                <size>32</size>
+                <text>5000%u20AC</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::CheckBoxGroup" x="206" y="353" w="-1" h="-1" measuredW="119" measuredH="61" zOrder="1" locked="false" isInGroup="105">
+          <controlProperties>
+            <text>%5B%20%5D%20Regular%20post%0A%5B%20%5D%20Omniva%20package%0A%5Bx%5D%20Itella%20smartpost</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</mockup>

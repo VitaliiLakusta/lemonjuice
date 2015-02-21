@@ -19,7 +19,18 @@
 					<p class = "text-center">Choose your payment method:</p>
 				</div>
 				<div class = "row">
-					<div class = "col-sm-6"></div>
+					<div class = "col-xs-10 col-xs-offset-1 col-sm-4 col-md-offset-0 col-md-3">
+						<asset:image src="logo-google.jpg" class = "img-responsive"/>
+					</div>
+					<div class = "col-xs-10 col-xs-offset-1 col-sm-4 col-md-offset-0 col-md-3">
+						<asset:image src="logo-bitcoin.jpg" class = "img-responsive"/>
+					</div>
+					<div class = "col-xs-10 col-xs-offset-1 col-sm-4 col-md-offset-0 col-md-3">
+						<asset:image src="logo-swed.jpg" class = "img-responsive"/>
+					</div>
+					<div class = "col-xs-10 col-xs-offset-1 col-sm-4 col-md-offset-0 col-md-3">
+						<asset:image src="logo-paypal.jpg" class = "img-responsive"/>
+					</div>
 				</div>
 			</div>
 		</div>
